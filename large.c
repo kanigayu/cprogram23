@@ -1,4 +1,4 @@
-3include<stdio.h>
+#include<stdio.h>
 int main()
 {
 int a[20],i,size;
